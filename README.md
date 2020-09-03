@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alangodoi/alangodoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Alan Godoi
+
+[![Instagram Badge](https://img.shields.io/badge/-@oalangodoi-333333?style=flat-square&labelColor=333333&logo=instagram&logoColor=white&link=https://instagram.com/oalangodoi)](https://instagram.com/oalangodoi) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alan%20Godoi-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alangodoi/)](https://www.linkedin.com/in/alangodoi/) 
+[![Gmail Badge](https://img.shields.io/badge/-alangsilveira@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:alangsilveira@gmail.com)](mailto:alangsilveira@gmail.com)
+
+"When in doubt, simplify."
+
